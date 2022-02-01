@@ -1,0 +1,22 @@
+{
+  "name": "portnpm",
+  "version": "1.0.0",
+  "description": "ceci est un test pour npm et un projet web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitkyo/portnpm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitkyo/portnpm/issues"
+  },
+  "homepage": "https://github.com/gitkyo/portnpm#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
