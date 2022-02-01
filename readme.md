@@ -2,3 +2,7 @@
 
 
 > npm install
+
+# use less
+
+> npm run watch
